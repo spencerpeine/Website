@@ -1,0 +1,29 @@
+.common{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header{
+    font-weight: bolder;
+    background-color: grey;
+}
+
+.headertwo{
+    color: grey;
+    font-weight: bolder;
+}
+
+.nicecolor{
+    color: black;
+}
+
+.body{
+    background-color: black;
+    color: whitesmoke;
+}
+ul{
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
